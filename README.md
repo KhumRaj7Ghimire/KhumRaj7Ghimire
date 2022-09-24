@@ -1,6 +1,2 @@
-### Hi there 👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhumRaj7Ghimire&title=Stars,Followers,Commits,Repositiries,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-🌱 I’m currently learning Flutter and Firebase.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhumRaj7Ghimire&show_icons=true&theme=radical)
 
