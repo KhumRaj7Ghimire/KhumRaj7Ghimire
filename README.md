@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Flutter and Firebase.
 
 <!--
 **KhumRaj7Ghimire/KhumRaj7Ghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
